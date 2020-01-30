@@ -22,3 +22,7 @@ body {
 navbar {
     background-color: transparent;
 }
+
+.selected{
+    background-color: red;
+}
